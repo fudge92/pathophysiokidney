@@ -98,7 +98,7 @@
       "options": [
         "initial;",
         "reconvalescence;", 
-        "oligo-anuric;", 
+        "oligo-anuric;",
         "prodromal;",
         "recovery of diuresis and polyuria."
       ],
@@ -223,7 +223,9 @@
         "increasing the tonus of afferent arterioles of renal glomeruli;",
         "all of the right."
       ],
-      "correctAnswers": [4],
+      "correctAnswers": [
+        4
+      ],
       "explanation": ""
     },
     {
@@ -260,7 +262,9 @@
         "decrease in aldosterone production;",
         "increase in the sensitivity of cells of the tubules to the aldosterone."
       ],
-      "correctAnswers": [3],
+      "correctAnswers": [
+        3
+      ],
       "explanation": ""
     },
     {
