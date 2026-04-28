@@ -1,0 +1,498 @@
+{
+  "title": "kidney pp",
+  "questions": [
+    {
+      "id": "kidney-pp-1",
+      "question": "What definition of renal failure is more correct?",
+      "options": [
+        "it is autointoxication of the organism that is associated primary with damage of the structural elements of the parenchyma by infectious or toxic factors;",
+        "it is such a change of renal function, which causes a disturbance of the state of the internal environment."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-2",
+      "question": "Specify the types of renal failure:",
+      "options": [
+        "acute, chronic, complete, partial;",
+        "terminal, unilateral, bilateral."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-3",
+      "question": "What form of renal failure includes renal diabetes, cystinuria, phosphate diabetes which are caused by inheritance of the corresponding genetic defects?",
+      "options": [
+        "acute;",
+        "terminal;",
+        "chronic;",
+        "unilateral;",
+        "full;",
+        "bilateral."
+      ],
+      "correctAnswers": [
+        2
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-4",
+      "question": "Specify the causes of acute renal failure type of “shock kidney”:",
+      "options": [
+        "Crush syndrome, a disease occurring with uncontrollable vomiting and profuse diarrhea, leading to dehydration;",
+        "poisoning by carbon tetrachloride, bilateral obstruction of the urinary tract by stones."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-5",
+      "question": "Specify the reasons leading to acute renal failure type of “vascular obstruction”?",
+      "options": [
+        "acute glomerulonephritis, thrombosis and embolism of the renal arteries;",
+        "poisoning by vinegar essence;",
+        "prostate adenoma;",
+        "anaerobic infection."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-6",
+      "question": "Specify the reasons of acute renal failure type of “urological obstruction”?",
+      "options": [
+        "Crush syndrome;",
+        "unilateral blockage of the urinary tract by stones; c) anaerobic infection;",
+        "acute glomerulonephritis."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-7",
+      "question": "Specify the stages of acute renal failure:",
+      "options": [
+        "latent, prodromal, urogenic sepsis, uremic;",
+        "oligo-anuric, initial, recovery of diuresis and polyuria, reconvalescence."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-8",
+      "question": "What is the stage of acute renal failure syndrome is characterized by development of uremia?",
+      "options": [
+        "initial;",
+        "reconvalescence; + c) oligo-anuric; d) prodromal;",
+        "recovery of diuresis and polyuria."
+      ],
+      "correctAnswers": [],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-9",
+      "question": "What factors reduce the filtration in the renal glomerulus?",
+      "options": [
+        "reducing the hydrostatic pressure in the glomerular capillaries, increasing the oncotic pressure of the blood, increasing intrarenal pressure, reduction of the filtering surface;",
+        "increase in hydrostatic pressure in the glomerular capillaries, decreased oncotic pressure of the blood, reducing the intrarenal pressure, increased filtration surface."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-10",
+      "question": "How changes the hydrostatic pressure in the renal glomeruli when constriction of the renal artery and afferent arterioles?",
+      "options": [
+        "increases;",
+        "decreases."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-11",
+      "question": "How changes the filtration pressure when spasm of efferent arterioles?",
+      "options": [
+        "rises;",
+        "decreases."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-12",
+      "question": "Diffuse glomerulonephritis is accompanied by:",
+      "options": [
+        "increased permeability of glomerular basement membrane;",
+        "decrease in the permeability of the glomerular basement membrane."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-13",
+      "question": "Acute diffuse glomerulonephritis is accompanied by increase in glomerular filtration process?",
+      "options": [
+        "yes;",
+        "no."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-14",
+      "question": "What changes reduce the hydrostatic pressure in the renal glomeruli?",
+      "options": [
+        "increased blood pressure, increased cardiac output, increased blood volume, increased plasma volume;",
+        "decreased blood pressure, decreased cardiac output, decrease in blood volume, decreased plasma volume."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-15",
+      "question": "What factors contribute to increased water reabsorption in the renal tubules?",
+      "options": [
+        "increased production of ADH, increased sensitivity of epithelium of the renal tubules to ADH, increase of reabsorption of the osmotically active substances from tubules;",
+        "the decrease in production of ADH, reducing the sensitivity of epithelium of the renal tubules to ADH, reducing reabsorption of osmotically active substances from tubules."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-16",
+      "question": "What are the factors directly related to the defeat of tubular apparatus of the kidney in acute renal failure?",
+      "options": [
+        "infectious-toxic, hypoxia of the nephron, action of metabolites and breakdown of tissues (myoglobin, hemoglobin, etc.);",
+        "impaired renal lymph circulation, increase in intrarenal pressure."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-17",
+      "question": "What is determined by larger degree of decreased urine output than the degree of reduction of glomerular filtration at background isostenuria in oligo-anuric stage of acute renal failure?",
+      "options": [
+        "that oliguria in acute renal failure is associated not only with the change of filtration, but also with the development non-selective resorption of the ultrafiltrate of tubules;",
+        "that the crucial in the development of oliguria in acute renal failure belongs to a violation of resorption of the tubular ultrafiltrate."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-18",
+      "question": "What factors reduce renal blood flow in the early stages of the action of nephrotic poisons?",
+      "options": [
+        "reduction in energy production in the cells of tubular epithelium;",
+        "reduction of tubular sodium reabsorption;",
+        "an increase in renin production;",
+        "increasing the tonus of afferent arterioles of renal glomeruli;",
+        "all of the right."
+      ],
+      "correctAnswers": [],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-19",
+      "question": "What factors can cause anuria?",
+      "options": [
+        "severe trauma, significant pain stimuli, bend or compression of the ureters;",
+        "denervation of the kidney, a drop of hydrostatic pressure in glomerular capillaries up to 50 mm Hg."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-20",
+      "question": "What factors can cause a hyponatriuresis?",
+      "options": [
+        "increase in glomerular filtration rate, a decrease in aldosterone production, reducing the sensitivity of cells of the tubules to the aldosterone;",
+        "increased production of aldosterone, decrease in glomerular filtration rate, an increase in the sensitivity of cells of the tubules to the aldosterone."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-21",
+      "question": "What changes lead to a decrease in sodium reabsorption in the renal tubules?",
+      "options": [
+        "decrease in glomerular filtration rate;",
+        "increase in glomerular filtration rate;",
+        "increased production of aldosterone;",
+        "decrease in aldosterone production;",
+        "increase in the sensitivity of cells of the tubules to the aldosterone."
+      ],
+      "correctAnswers": [],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-22",
+      "question": "The combination of hypostenuria with polyuria indicates on the primary lesion of the nephron structures, such as:",
+      "options": [
+        "glomerulus;",
+        "tubules."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-23",
+      "question": "Reducing the elimination from the body of the urea and creatinine leads to:",
+      "options": [
+        "hyperasotemia;",
+        "diselectrolytemia;",
+        "acidosis."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-24",
+      "question": "What violations of plasma are typical for oligo-anuric stage of acute renal failure?",
+      "options": [
+        "hypernatremia, hypokalemia, hypomagnesemia;",
+        "hyponatremia, hyperkalemia, hypermagnesemia."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-25",
+      "question": "Hyperkalemia in acute renal failure is associated with violation of processes such as:",
+      "options": [
+        "filtration and reabsorption of potassium, reabsorption and secretion of potassium, increased protein anabolism processes;",
+        "filtration and secretion of potassium, increased protein catabolism."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-26",
+      "question": "What are the factors associated with the development of hyponatremia in the third stage of acute renal failure?",
+      "options": [
+        "increasing sodium excretion from the body, thinning (hemodilution) of blood, increased transition sodium from the extracellular space into the cell;",
+        "sharp drop of its filtration in third stage of acute renal failure, output of sodium from cells to the extracellular space, delay of potassium in the body."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-27",
+      "question": "Hyponatremia in acute renal failure leads to:",
+      "options": [
+        "intracellular dehydration;",
+        "intracellular hyperhydration."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-28",
+      "question": "What is the reason of hyponatremia in chronic renal failure?",
+      "options": [
+        "decrease in the sensitivity of the epithelium to the ADH, decrease in the rate of filtration of sodium in functioning glomeruli;",
+        "decrease in the sensitivity of the epithelium to the aldosterone, increased filtration rate of sodium in the functioning glomeruli."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-29",
+      "question": "Can extra- as well as intracellular hyperhydration develop when acute renal failure and chronic renal failure?",
+      "options": [
+        "yes;",
+        "no."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-30",
+      "question": "What is the reason of the acidosis in renal failure?",
+      "options": [
+        "reduction in the secretion of hydrogen ions in the tubules, decrease in filtration of phosphates, increased loss of bicarbonates;",
+        "increased secretion of hydrogen ions in the tubules, increased filtration of phosphates, decreased excretion of bicarbonates."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-31",
+      "question": "What accounts for dyspepsia (loss of appetite, nausea, vomiting, diarrhea) in chronic renal failure and uremia?",
+      "options": [
+        "acidosis;",
+        "diselectrolytemia, increased formation of ammonia in the gut."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-32",
+      "question": "Uremia is characterized by:",
+      "options": [
+        "anemia, leukocytosis, thrombocytopenia, hypocalcemia;",
+        "polycythemia, leukopenia, increase of platelets per unit volume of blood, hypercalcemia."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-33",
+      "question": "Specify the reasons of the prerenal form of acute renal failure:",
+      "options": [
+        "cardiogenic shock;",
+        "acute glomerulonephritis;",
+        "thrombosis and embolism of renal vessels;",
+        "acute pyelonephritis."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-34",
+      "question": "How changes the diuresis with a decrease in reabsorption of glucose in the renal tubules?",
+      "options": [
+        "rises;",
+        "decreases."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-35",
+      "question": "The tubular acidosis is a consequence of changes in the function of the nephron:",
+      "options": [
+        "glomerular filtration;",
+        "tubular secretion;",
+        "tubular reabsorption."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-36",
+      "question": "How changes filtration when selective increase in tonus efferent arterioles of renal glomeruli?",
+      "options": [
+        "is incremented;",
+        "decreases."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-37",
+      "question": "How changes the hydrostatic pressure in capillaries of the renal glomeruli when increases in tonus of afferent arterioles?",
+      "options": [
+        "increases;",
+        "decreases."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-38",
+      "question": "How changes the diuresis when decreases of reabsorption of glucose in the renal tubules?",
+      "options": [
+        "is incremented;",
+        "decreases."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-39",
+      "question": "What is the leading pathogenetic factor of prerenal form of acute renal failure?",
+      "options": [
+        "inhibition of systemic hemodynamics;",
+        "primary damage of the nephron;",
+        "difficulty of removing of urine from urinary tract."
+      ],
+      "correctAnswers": [
+        0
+      ],
+      "explanation": ""
+    },
+    {
+      "id": "kidney-pp-40",
+      "question": "Which are pathogenetic factors lead to reduction of renal blood flow in the development of prerenal form of acute renal failure?",
+      "options": [
+        "hypervolemia, lowering tonus of afferent arterioles;",
+        "hypovolemia, increased tonus of afferent arterioles, violation of hemorheological properties of blood."
+      ],
+      "correctAnswers": [
+        1
+      ],
+      "explanation": ""
+    }
+  ]
+}
