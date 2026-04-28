@@ -97,10 +97,12 @@
       "question": "What is the stage of acute renal failure syndrome is characterized by development of uremia?",
       "options": [
         "initial;",
-        "reconvalescence; + c) oligo-anuric; d) prodromal;",
+        "reconvalescence;", 
+        "oligo-anuric;", 
+        "prodromal;",
         "recovery of diuresis and polyuria."
       ],
-      "correctAnswers": [],
+      "correctAnswers": [2],
       "explanation": ""
     },
     {
@@ -221,7 +223,7 @@
         "increasing the tonus of afferent arterioles of renal glomeruli;",
         "all of the right."
       ],
-      "correctAnswers": [],
+      "correctAnswers": [4],
       "explanation": ""
     },
     {
@@ -258,7 +260,7 @@
         "decrease in aldosterone production;",
         "increase in the sensitivity of cells of the tubules to the aldosterone."
       ],
-      "correctAnswers": [],
+      "correctAnswers": [3],
       "explanation": ""
     },
     {
